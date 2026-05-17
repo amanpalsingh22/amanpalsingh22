@@ -1,55 +1,21 @@
-Hi, I'm Amanpal Singh
-I'm a web developer focused on building practical, clean, and user-friendly web applications with JavaScript, TypeScript, React, Node.js, and modern frontend tools.
+<h1 align="center">Hi, I'm Amanpal Singh</h1> <p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;I+build+clean+and+practical+web+apps" alt="Typing SVG" /> </a> </p> <p align="center"> <a href="https://github.com/amanpalsingh22?tab=followers"> <img src="https://img.shields.io/github/followers/amanpalsingh22?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" /> </a> <img src="https://komarev.com/ghpvc/?username=amanpalsingh22&style=for-the-badge&color=blue" alt="Profile views" /> <a href="mailto:amanpalsingh878@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+About Me
+I'm a web developer focused on building clean, useful, and responsive web applications. I like working with JavaScript, TypeScript, React, Node.js, and modern frontend tools.
 
-I enjoy turning ideas into working products, improving user experience, and learning by building real projects.
-
-Current Focus
-Building full-stack web applications with React, TypeScript, Node.js, and databases
-Improving my portfolio and project documentation
-Practicing cleaner code structure, reusable components, and deployment workflows
+Currently improving my portfolio and full-stack projects
+Learning cleaner architecture, reusable components, and deployment workflows
+Interested in frontend engineering, backend APIs, and product-focused web apps
+Open to internships, freelance work, collaborations, and learning-focused projects
 Tech Stack
-JavaScript
-TypeScript
-React
-Node.js
-Express
-HTML5
-CSS3
-Git
-GitHub
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode" alt="Tech stack icons" /> </p>
 Featured Projects
-Portfolio
-Personal portfolio website to present my projects, skills, and developer profile.
-
-Tech: JavaScript
-Repo: Portfolio
-
-Blog Space
-A blog-focused web application built with TypeScript.
-
-Tech: TypeScript
-Repo: Blog-space
-
-Chatter
-A chat application project focused on messaging and user interaction.
-
-Tech: JavaScript
-Repo: Chatter
-
-URL Shortener
-A web app for shortening long URLs and managing generated links.
-
-Tech: Web / CSS
-Repo: url-shortner
-
-GitHub Stats
-
-
-
-
-Connect
-GitHub: @amanpalsingh22
-Portfolio: amanpalsingh.in
-LinkedIn: https://www.linkedin.com/in/amanpal-singh-
-Email: amanpalsingh878@gmail.com
+<table> <tr> <td width="50%"> <h3 align="center">Portfolio</h3> <p align="center"> <a href="https://github.com/amanpalsingh22/Portfolio"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanpalsingh22&repo=Portfolio&theme=github_dark&hide_border=true" alt="Portfolio repo card" /> </a> </p> </td> <td width="50%"> <h3 align="center">Blog Space</h3> <p align="center"> <a href="https://github.com/amanpalsingh22/Blog-space"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanpalsingh22&repo=Blog-space&theme=github_dark&hide_border=true" alt="Blog Space repo card" /> </a> </p> </td> </tr> <tr> <td width="50%"> <h3 align="center">Chatter</h3> <p align="center"> <a href="https://github.com/amanpalsingh22/Chatter"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanpalsingh22&repo=Chatter&theme=github_dark&hide_border=true" alt="Chatter repo card" /> </a> </p> </td> <td width="50%"> <h3 align="center">URL Shortener</h3> <p align="center"> <a href="https://github.com/amanpalsingh22/url-shortner"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=amanpalsingh22&repo=url-shortner&theme=github_dark&hide_border=true" alt="URL Shortener repo card" /> </a> </p> </td> </tr> </table>
+GitHub Dashboard
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amanpalsingh22&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=amanpalsingh22&theme=github-dark-blue&hide_border=true" alt="GitHub streak" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanpalsingh22&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" /> <img width="48%" src="https://github-profile-trophy.vercel.app/?username=amanpalsingh22&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub trophies" /> </p>
+Contribution Game
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanpalsingh22/amanpalsingh22/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanpalsingh22/amanpalsingh22/output/github-snake.svg" /> <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/amanpalsingh22/amanpalsingh22/output/github-snake.svg" /> </picture> </p>
+Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=amanpalsingh22&theme=github-compact&hide_border=true" alt="GitHub activity graph" /> </p>
+Connect With Me
+<p align="left"> <a href="mailto:amanpalsingh878@gmail.com"> <img src="https://img.shields.io/badge/Email-amanpalsingh878%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://www.linkedin.com/in/amanpal-singh"> <img src="https://img.shields.io/badge/LinkedIn-Amanpal_Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/amanpalsingh22"> <img src="https://img.shields.io/badge/GitHub-amanpalsingh22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> </p>
+<p align="center"> <b>Building, learning, and improving one project at a time.</b> </p>
