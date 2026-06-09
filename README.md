@@ -1,14 +1,10 @@
-<h1 align="center">Hi, I'm Amanpal Singh</h1>
+<h1 align="center">Amanpal Singh</h1>
+
+<h3 align="center">Web Developer | JavaScript | TypeScript | React | Node.js</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Web+Developer;JavaScript+%7C+TypeScript+%7C+React+%7C+Node.js;Building+clean+and+practical+web+apps" alt="Typing SVG" />
-  </a>
+  I build clean, responsive, and practical web applications with a focus on usability, readable code, and real-world project execution.
 </p>
-
-<h3 align="center">
-  <a href="https://amanpalsingh.in">View My Live Portfolio</a>
-</h3>
 
 <p align="center">
   <a href="https://amanpalsingh.in">
@@ -23,100 +19,70 @@
   <a href="https://leetcode.com/u/AmanpalSingh22">
     <img src="https://img.shields.io/badge/LeetCode-AmanpalSingh22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://github.com/amanpalsingh22">
-    <img src="https://img.shields.io/badge/GitHub-amanpalsingh22-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm a web developer focused on building clean, useful, and responsive web applications. I like working with JavaScript, TypeScript, React, Node.js, and modern frontend tools.
+I am a web developer focused on building full-stack web applications and improving my ability to write clean, maintainable, and production-ready code.
 
-- Improving my portfolio and full-stack projects
-- Learning cleaner architecture, reusable components, and deployment workflows
-- Interested in frontend engineering, backend APIs, and product-focused web apps
-- Open to internships, freelance work, collaborations, and learning-focused projects
+My current work is centered around frontend development, backend APIs, responsive interfaces, project documentation, and deploying real applications that can be used and reviewed.
 
 ---
 
-## Tech Stack
+## Core Skills
 
-<p align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,git,github,vscode" alt="HTML, CSS, JavaScript, TypeScript, React, Node.js, Express, MongoDB, Git, GitHub, VS Code" />
 </p>
+
+| Area | Skills |
+| --- | --- |
+| Frontend | HTML, CSS, JavaScript, TypeScript, React, responsive UI |
+| Backend | Node.js, Express, REST APIs |
+| Database | MongoDB, data modeling basics |
+| Tools | Git, GitHub, VS Code, deployment workflows |
+| Practices | Clean code, reusable components, documentation, debugging |
 
 ---
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Portfolio</h3>
-      <p>Personal portfolio website for showcasing my projects, skills, and web development work.</p>
-      <p><b>Tech:</b> JavaScript, frontend, responsive design</p>
-      <p>
-        <a href="https://amanpalsingh.in">Live Demo</a> |
-        <a href="https://github.com/amanpalsingh22/Portfolio">Source Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Blog Space</h3>
-      <p>A TypeScript blog platform for creating, reading, and managing posts.</p>
-      <p><b>Tech:</b> TypeScript, web app structure</p>
-      <p>
-        <a href="https://github.com/amanpalsingh22/Blog-space">Source Code</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Chatter</h3>
-      <p>A chat application focused on messaging flow and user interaction.</p>
-      <p><b>Tech:</b> JavaScript, app state, communication UI</p>
-      <p>
-        <a href="https://github.com/amanpalsingh22/Chatter">Source Code</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>URL Shortener</h3>
-      <p>A utility web app for shortening long URLs and managing generated links.</p>
-      <p><b>Tech:</b> forms, routing, utility app design</p>
-      <p>
-        <a href="https://github.com/amanpalsingh22/url-shortner">Source Code</a>
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | Description | Tech / Focus | Links |
+| --- | --- | --- | --- |
+| **Portfolio** | Personal portfolio website showcasing my projects, skills, and web development work. | JavaScript, responsive design, personal branding | [Live Demo](https://amanpalsingh.in) \| [Source Code](https://github.com/amanpalsingh22/Portfolio) |
+| **Blog Space** | Blog platform for creating, reading, and managing posts with a structured web app flow. | TypeScript, content management, app structure | [Source Code](https://github.com/amanpalsingh22/Blog-space) |
+| **Chatter** | Chat application focused on messaging flow, user interaction, and app state. | JavaScript, communication UI, state handling | [Source Code](https://github.com/amanpalsingh22/Chatter) |
+| **URL Shortener** | Utility web app for shortening long URLs and managing generated links. | Forms, routing, utility app design | [Source Code](https://github.com/amanpalsingh22/url-shortner) |
 
 ---
 
-## Focus Areas
+## Current Focus
 
-- Frontend development with React, TypeScript, and responsive UI
-- Full-stack apps with Node.js, Express, and database-backed features
-- Clean project structure, readable code, and practical documentation
-- Portfolio polish, deployment workflows, and real-world project presentation
+- Strengthening React and TypeScript fundamentals
+- Building cleaner full-stack applications with Node.js and Express
+- Improving project structure, documentation, and deployment quality
+- Creating portfolio-ready projects with clear use cases and polished presentation
+- Practicing problem solving through LeetCode
 
 ---
 
-## Current Learning Path
+## Learning Path
 
 ```text
-React basics        -> reusable components
-TypeScript          -> safer application code
-Node.js + Express   -> backend APIs
-MongoDB             -> database-backed apps
-Deployment          -> live projects and portfolio polish
+React              -> reusable components and frontend architecture
+TypeScript         -> safer and more maintainable application code
+Node.js + Express  -> backend APIs and server-side logic
+MongoDB            -> database-backed application features
+Deployment         -> live, reviewable, portfolio-ready projects
 ```
 
 ---
 
 ## Coding Profiles
 
-<p align="left">
+<p>
   <a href="https://leetcode.com/u/AmanpalSingh22">
     <img src="https://img.shields.io/badge/LeetCode-AmanpalSingh22-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile" />
   </a>
@@ -127,9 +93,9 @@ Deployment          -> live projects and portfolio polish
 
 ---
 
-## Connect With Me
+## Contact
 
-<p align="left">
+<p>
   <a href="mailto:amanpalsingh878@gmail.com">
     <img src="https://img.shields.io/badge/Email-amanpalsingh878%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -144,5 +110,5 @@ Deployment          -> live projects and portfolio polish
 ---
 
 <p align="center">
-  <b>Building, learning, and improving one project at a time.</b>
+  <b>Building practical web applications and improving one project at a time.</b>
 </p>
